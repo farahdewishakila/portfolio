@@ -22,7 +22,10 @@ This is my new portfolio. I made this portfolio to showcase my projects and intr
 ## 📚 Documentation
 In this portfolio project I'm using GSAP animation, and you can read the GSAP documentation from GSAP's official website and the documentation that I've made with clicking the link below.
 
-[My Documentation]()
-[Documentation Website](https://greensock.com/docs/v3)
-[Installation & CDN Page](https://greensock.com/docs/v3/Installation#CDN)
-[Ease Visualizer](https://greensock.com/ease-visualizer/)
+* [My Documentation](https://github.com/horuschild/portfolio/blob/master/gsapDocs.md)
+
+* [Documentation Website](https://greensock.com/docs/v3)
+
+* [Installation & CDN Page](https://greensock.com/docs/v3/Installation#CDN)
+
+* [Ease Visualizer](https://greensock.com/ease-visualizer/)
