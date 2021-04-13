@@ -11,7 +11,7 @@ This is my new portfolio. I made this portfolio to showcase my projects and intr
 * 📈 Google analytics integrated
 
 ## 👽 Demo Web
-[Demo Web](horuschild.github.io/portfolio)
+[Demo Web](https://horuschild.github.io/portfolio/)
 
 
 ## 📝 Notes
